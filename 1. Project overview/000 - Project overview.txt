@@ -1,0 +1,4 @@
+1. Project Overview - Meta information
+
+The goal of this folder is to provide information about the project. 
+Ideally the goals, the data, the methods, the results and the conclusions should be described here.

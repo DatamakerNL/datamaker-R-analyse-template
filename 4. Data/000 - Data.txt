@@ -1,0 +1,7 @@
+4. Data
+
+This folder should contain all the data required to run the project.
+Data can also be saved here, but it should be clear that if this folder is filled everything can be reproduced.
+
+Be sure to annotate data with the data of retrieval yyyymmdd_datafile.csv.
+This way the data can always be traced back to a certain date

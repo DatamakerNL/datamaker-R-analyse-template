@@ -1,0 +1,7 @@
+6. Output
+
+Place everything that comes out of the scripts here.
+Ideally it should be annotated with the run date, so that we can follow the newest updated version.
+
+Place each run in a separate folder with the date in YYYYMMDD format.
+For example: 20190101

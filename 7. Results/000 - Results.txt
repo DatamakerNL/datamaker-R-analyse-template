@@ -1,0 +1,11 @@
+7. Results
+
+Place all results files in this folder.
+This includes but is not limited to:
+- Presentations
+- Word documents
+- Excel files
+- PDF files
+- Images
+
+Again, it is recommended to use a date in the folder name, so that we can follow the newest updated version.

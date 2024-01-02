@@ -1,0 +1,6 @@
+5. Scripts
+
+In order to avoid a mess, place all the scripts in this folder.
+- Structure them with numbers or dates (1 first, 2 second, .... 999_others)
+This way the structure can always be followed and the scripts can be run in order.
+- Use the following naming convention: 1_ScriptName.R

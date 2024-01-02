@@ -1,0 +1,9 @@
+3. Requirements
+
+Goal: to list all the project requirements in a structured way.
+
+This folders can contain the following files:
+- Required R packages
+- Source files for data (such as GEO files)
+- Templates (for word documents, powerpoint presentations, etc.)
+
